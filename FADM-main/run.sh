@@ -1,0 +1,1 @@
+python run.py --n_epochs 20 --output_dir /root/autodl-tmp/output
